@@ -1,0 +1,29 @@
+body{
+    background-color: azure;
+    font-style: bold;
+    font-size-adjust: unset;
+}
+nav{
+    background-color: deepskyblue;
+    font-style: italic;
+    padding: 1px;
+    block-size: 1px;
+    text-align: center;
+}
+footer{
+    background-color: deepskyblue;
+    font-style: italic;
+    padding: 1px;
+    block-size: 1px;
+    text-align: center;
+
+}
+h1{
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+li{
+    overflow: hidden;
+    text-align: center;
+}
